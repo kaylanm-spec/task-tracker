@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>My First Project</title>
-</head>
-
-<body>
-
-<h1>Welcome to My First Website</h1>
-
-<p>I built this using Laragon.</p>
-
-<link rel="stylesheet" href="style.css">
-
-</body>
-
-</html>
+<h1>Task Tracker</h1>
+<a href="register.php">Register</a>
+<a href="login.php">Login</a>
